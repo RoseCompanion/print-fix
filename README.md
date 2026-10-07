@@ -4,7 +4,7 @@ A Blender add-on that finds what would stop a model printing, repairs a **copy**
 
 ![Damaged model on the left with its open edges in red, repaired model on the right](before-after.png)
 
-**Get it:** https://croucamp.gumroad.com/l/print-fix ($15, 30-day refund, includes a guide and a damaged 300 mm sample model)
+**Get it:** https://sonneblomdigitaal.gumroad.com/l/print-fix ($15, 30-day refund, includes a guide and a damaged 300 mm sample model)
 
 ## What it checks
 Open edges (holes), non-manifold edges, flipped faces, inside-out solids, solids buried inside solids, faces that pass through each other, models with no volume, loose parts, duplicate vertices, and the thinnest wall.
